@@ -29,13 +29,9 @@ twitter_username: sigsegv
 github_username:  daniel42
 
 # Build settings
-#theme: minima
-#remote_theme: pages-themes/modernist@v0.2.0
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
